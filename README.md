@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RookieTerry
 - 👀 I’m interested in Network Security.
-- 🌱 I’m currently learning Cyber security.
+- 🌱 I’m currently learning cyber security.
 - 💞️ I’m looking to collaborate on some famous CTF teams.
 - 📫 How to reach me:zhangtianyu906@gmail.com
 
